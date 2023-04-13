@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'AmoretSans';
+   font-display: swap;
+   src: url('AmoretSans/font.ttf');
+}
+@font-face {
+   font-family: 'AmoretScript';
+   font-display: swap;
+   src: url('AmoretScript/font.ttf');
+}

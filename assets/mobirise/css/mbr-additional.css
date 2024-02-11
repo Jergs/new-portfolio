@@ -1542,9 +1542,15 @@ a {
     display: none !important;
   }
 }
+.cid-tBkE0nmRgA H5 {
+  color: #353535;
+}
+.cid-tBkE0nmRgA P {
+  color: #353535;
+}
 .cid-tA7VbYdZWv {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-color: #232323;
 }
 .cid-tA7VbYdZWv .row-links {
